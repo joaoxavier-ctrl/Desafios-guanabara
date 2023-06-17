@@ -1,2 +1,2 @@
 # Desafios-guanabara
-Desafios do curso de HTML e CSS do gustavo guanabara, todos os módulos.
+Desafios do módulo 1 do curso de HTML5 e CSS3 do Gustavo Guanabara.
